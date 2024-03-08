@@ -1,0 +1,6 @@
+C:\Users\Илья\source\repos\ConsoleApp77\bin\Debug\ConsoleApp77.exe.config
+C:\Users\Илья\source\repos\ConsoleApp77\bin\Debug\ConsoleApp77.exe
+C:\Users\Илья\source\repos\ConsoleApp77\bin\Debug\ConsoleApp77.pdb
+C:\Users\Илья\source\repos\ConsoleApp77\obj\Debug\ConsoleApp77.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ConsoleApp77\obj\Debug\ConsoleApp77.exe
+C:\Users\Илья\source\repos\ConsoleApp77\obj\Debug\ConsoleApp77.pdb
